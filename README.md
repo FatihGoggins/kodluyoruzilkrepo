@@ -3,7 +3,9 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 ## **Installation**
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)  
 
+```
 https://github.com/FatihGoggins/kodluyoruzilkrepo.gits
+```
 
 A nice picture of github page related to Ödev 1
 
